@@ -28,5 +28,5 @@ jobs:
     - name: doxygen
       env:
         GH_REPO_TOKEN: ${{ secrets.GH_REPO_TOKEN }}
-        PRETTYNAME : "Adafruit BME280 Library"
+        PRETTYNAME : "md_BME280"
       run: bash ci/doxy_gen_and_deploy.sh

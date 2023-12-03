@@ -8,10 +8,10 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Martin/Documents/PlatformIO/Projects/md_stdlib/md_BME280",
+      "cwd": "c:/Users/Martin/Documents/PlatformIO/Projects/md_stdlib/md_BME280/src",
       "program": "c:/Users/Martin/Documents/PlatformIO/Projects/md_stdlib/md_BME280/build/Debug/outDebug",
       "MIMode": "gdb",
-      "miDebuggerPath": "gdb",
+      "miDebuggerPath": "C:/Users/Martin/.platformio/packages/toolchain-xtensa-esp32@8.4.0+2021r2-patch5/bin/xtensa-esp32-elf-gdb.exe",
       "setupCommands": [
         {
           "description": "Enable pretty-printing for gdb",
